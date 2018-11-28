@@ -6,3 +6,5 @@ c = 2
 d = 4
 e = c + d
 print(e)
+f = d - c
+print(f)
